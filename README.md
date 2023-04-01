@@ -23,5 +23,9 @@ This project is to gather and provide updated information to the underwriters of
 7. Implement payment monitoring systems and maximum payment processing restrictions to minimize the future risk of fraud by staff. Provide the average and maximum payment processed.
 8. Obtain a better understanding of the customer base by providing a list of all customer identification values with a count of rentals they have made all-time, with the highest volume customers listed at the top.
 
+### Running the project:
+
+1 -- MySQL Workbench or similar is needed. 2 -- Use the "create_mavenmovies.sql" database file to read data to the project script.
+
 
 
